@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": "Animal",
+    "name": "Cat",
+    "picture": "http://goo.gl/dswHtz"
+  },
+  {
+    "id": 2,
+    "category": "Fruit",
+    "name": "Mango",
+    "picture": "http://goo.gl/0hlZnf"
+  },
+  {
+    "id": 3,
+    "category": "Bird",
+    "name": "Sparrow",
+    "picture": "http://goo.gl/6hPz8R"
+  },
+  {
+    "id": 4,
+    "category": "Bird",
+    "name": "Parrot",
+    "picture": "https://goo.gl/sV22qI"
+  },
+  {
+    "id": 5,
+    "category": "Bird",
+    "name": "Crow",
+    "picture": "https://goo.gl/jCTH43"
+  },
+  {
+    "id": 6,
+    "category": "Fruit",
+    "name": "Pine Apple",
+    "picture": "http://goo.gl/t7Epny"
+  },
+  {
+    "id": 7,
+    "category": "Animal",
+    "name": "Dog",
+    "picture": "http://goo.gl/RLrwYy"
+  },
+  {
+    "id": 8,
+    "category": "Animal",
+    "name": "Tiger",
+    "picture": "http://goo.gl/E3nzPa"
+  },
+  {
+    "id": 9,
+    "category": "Fruit",
+    "name": "Apple",
+    "picture": "https://goo.gl/6oQe9K"
+  },
+  {
+    "id": 10,
+    "category": "Fruit",
+    "name": "Banana",
+    "picture": "https://goo.gl/9NiFNQ"
+  }
+]
